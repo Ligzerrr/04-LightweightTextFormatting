@@ -13,8 +13,8 @@ A [_laptop_][laptoplink] computer or notebook computer, also known as a laptop o
 >A rugged laptop is designed to reliably operate in harsh usage conditions such as strong vibrations, extreme temperatures, and wet or dusty environments. Rugged laptops are bulkier, heavier, and much more expensive than regular laptops, and thus are seldom seen in regular consumer use.  
 
 #### Laptop hardware
-The basic components of laptops function identically to their desktop counterparts.  
-Traditionally they were miniaturized and adapted to mobile use, The design restrictions on power, size, and cooling of laptops limit the maximum performance of laptop parts compared to that of desktop components, although that difference has increasingly narrowed.
+The basic components of laptops function identically to their desktop counterparts.    
+Traditionally they were miniaturized and adapted to mobile use, The design restrictions on power, size, and cooling of laptops limit the maximum performance of laptop parts compared to that of desktop components, although that difference has increasingly narrowed.  
 **The most important laptop hardware parts include a:**
 1. Display
 2. Central processing unit ([_CPU_][cpulink])
